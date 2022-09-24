@@ -1,0 +1,84 @@
+# Project Suggestions
+
+	CONTENTS
+		Suggestions
+		Background Information on Current Climate Forecasting
+			Audience
+			Information Content and Strategy
+		Snapshot of Animals of the Democratic Republic of the Congo
+			Audience
+			Aims
+			Strategy and Content
+
+## Suggestions:
+	1. Background Information on Current Climate Forecasting
+		Rejected on the grounds of difficulty in obtaining copyright
+		permissions.
+
+	Since this issue could arise with any number of projects arising from
+	internet data, it is better to chose a project which uses all freely
+	available information and then to collate it into a single project,
+	in order to provide a novel perspective.
+
+	One very wide source of information is Wikipedia - what are its
+	copyright rules? https://en.wikipedia.org/wiki/Wikipedia:About
+	"To remain, the content must be free of copyright".
+	This implies quite clearly that we can freely use Wikipedia material.
+	We could use this data to satisfy the climate forecasting issue, however
+	the problem in this case would potentially be bias (requirement for
+	multiple sources).
+
+	So the issue here is to synthesise a new perspective based on Wikipedia
+	data.
+
+	2. Snapshot of Animals of the Democratic Republic of the Congo
+
+## Background Information on Current Climate Forecasting, a Website Summary
+
+### Audience
+	For those interested in filling-in some of the missing-links in their
+	understanding of current climate concerns.
+
+### Information Content and Strategy
+	The website should not be more than 5 pages.
+	The time budget is 4 weeks.
+	Graphics, rather than text should be used where possible.
+
+	The questions answered should be
+		What are the current forecasts?
+		How is the information gathered and what data is used?
+		By whom and how is the information processed?
+		How are problems arising being ameliorated?
+	
+	The time budget for gathering and processing information
+	is 1 week.
+	The source for information should be the internet.
+	Information gathered should be condensed into a manageable
+	summary.
+
+	A factor to take into consideration is plagiarism, who needs
+	to be notified/asked to allow the use of information? Can this
+	be arranged in project time? This is a crucial point for this 
+	project suggestion, it is not likely that permission would be
+	refused, but simply that it is unlikely to be agreed in time.
+
+	Reliability - how do we ensure the reliability of information?
+
+	Sources:
+		Communicating Climate Change
+			.pdf
+			https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/8097/	somervilleandhassolclimatechange.pdf?sequence=1
+
+## Snapshot of Animals of the Democratic Republic of the Congo
+
+### Audience
+	Anyone interested in nature, geography and natural preservation
+
+### Aims
+	To collate information on larger animals and their habitats in the Congo.
+	To provide the user with a summarised snapshot of species present and
+	the current state of affairs.
+
+### Strategy and Content
+#### Information Sources: Wikipedia: Congo, Wildlife of the Democratic Republic of Congo and it's links.
+
