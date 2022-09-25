@@ -9,6 +9,10 @@
 			Audience
 			Aims
 			Strategy and Content
+				Information Sources
+				Areas of Interest and Associated Information
+				Time Allocations and Priorities
+				Retrenchments and Scope
 
 ## Suggestions:
 	1. Background Information on Current Climate Forecasting
@@ -77,8 +81,57 @@
 ### Aims
 	To collate information on larger animals and their habitats in the Congo.
 	To provide the user with a summarised snapshot of species present and
-	the current state of affairs.
+	the current state of affairs and to provide links for further human
+	interest.
 
 ### Strategy and Content
-#### Information Sources: Wikipedia: Congo, Wildlife of the Democratic Republic of Congo and it's links.
+#### Information Sources
+	Wikipedia: Congo, Congo Tourism/Charities etc., 
+	Wildlife of the Democratic Republic of Congo and it's links.
 
+#### Areas of Interest and Associated Information
+	The aim of the website is to provide brief descriptions of
+	a set of animals in their contexts, to convey a sense of their
+	relations to human activity and to provide the user with
+	further information to connect with these issues. Therefore
+	the broad information headings are:
+
+		Congo Geography
+		Congo Habitats
+			Animals within those habitats (3)
+		Human interaction with the habitats
+		The Political Situation, Tourism and Interested Organisations
+
+	We will assume for now that this will require 7 pages
+
+#### Time Allocations and Priorities
+	Allowing four man weeks (48 1/2 day units) for the project, we have the following
+	stages:
+		1. Information gathering and collation/condensation
+		2. Page designs allowing for conformance/UXD 
+		3. Page development
+		4. Page testing and project release
+
+		Allowing 6 units per page for development 42 units in all, then we can see 
+		already, that this is likely to be too ambitious for the time allocated.
+
+#### Retrenchments and Scope
+	Since we must in any event, gather and collate the information, let us allocate
+	8 time units to this. This leaves us 40 units for the other stages. Allow 1 unit 
+	for site design, 2 units for each page design, 6 units each for development, 
+	1 unit each for testing, 1 unit for the README.md layout.
+	This only allows for 4 pages, so we must either modify our aims or condense
+	still further.
+
+	The PRIMARY aim, as given in the title, is to provide a snapshot of the animals
+	and their habitats for general interest.
+
+	So let us condense the Human Concerns and Habitats on to the main Geography page
+	as links to other sources and paragraphs of text. This still serves the
+	user as an information source on these areas of further interest. We need
+	to be selective because of the risk of making the page too busy.
+
+	To allow for future expansion of the site in an orderly way, the webpage connections
+	should be heirarchical for the habitats, we might later divide them into
+	birds, reptiles, mammals, fish etc. The human concerns could then be lateral
+	on the menu.
