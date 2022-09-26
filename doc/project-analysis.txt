@@ -13,6 +13,7 @@
 				Areas of Interest and Associated Information
 				Time Allocations and Priorities
 				Retrenchments and Scope
+				Structure
 
 ## Suggestions:
 	1. Background Information on Current Climate Forecasting
@@ -119,9 +120,10 @@
 	Since we must in any event, gather and collate the information, let us allocate
 	8 time units to this. This leaves us 40 units for the other stages. Allow 1 unit 
 	for site design, 2 units for each page design, 6 units each for development, 
-	1 unit each for testing, 1 unit for the README.md layout.
+	2 units for media adjustments, 0.5 unit each for testing, 2 unit for the README.md layout.
 	This only allows for 4 pages, so we must either modify our aims or condense
 	still further.
+
 
 	The PRIMARY aim, as given in the title, is to provide a snapshot of the animals
 	and their habitats for general interest.
@@ -131,8 +133,61 @@
 	user as an information source on these areas of further interest. We need
 	to be selective because of the risk of making the page too busy.
 
+	Gather & Collate Information		8
+	Site Design							1
+	Page Design (*4)					8
+	Page Development (*4)			   24
+	Media Adjustments					2
+	Testing	(*4)						2
+	README.md							2
+	TOTAL							   47
+
+	The three main habitats of the Congo are Savanna, Forest and Swamp, in addition
+	we could include rivers, when time allows.
+
+	So the information content of the pages is as follows:
+	Main
+		Geography
+		Animal Life  - Introduction
+		Habitats - Introduction
+		Links with text for Reader Interest and Follow-Up
+	Savannah
+		Picture of terrain
+		6 Animals + Pics
+	Forest
+		Picture of terrain
+		6 Animals + Pics
+	Swamp
+		Picture of terrain
+		6 Animals + Pics
+
+If we then have residual time we can move the Reader Interest to another page
+and later add the River Habitat.
+
 ### Structure
 	To allow for future expansion of the site in an orderly way, the webpage connections
 	should be heirarchical for the habitats, we might later divide them into
-	birds, reptiles, mammals, fish etc. The human concerns could then be lateral
-	on the menu.
+	birds, reptiles, mammals, fish etc. The human concerns and other issues could then be 
+	lateral on the menu. The menues are therefore arranged as follows:
+
+	Main Page
+		Home
+		Habitats - goes to the first habitat page (alphabetical)
+
+	Habitat Pages
+		Home
+		Forest
+		River
+		Savanna
+
+	The Main page layout consists of the site title with the menu-bar
+	on the next line (Since the title is rather long).
+	The First section is an introduction to the site and its aims
+	and purposes
+	The Second section is the map section with an associated image
+	and geographic text.
+	The Third section is a description of the habitats and wildlife
+	in general, with associated links.
+	The Fourth section is a description of human concerns and
+	associated links.
+		
