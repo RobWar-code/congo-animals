@@ -12,8 +12,9 @@
 				Information Sources
 				Areas of Interest and Associated Information
 				Time Allocations and Priorities
-				Retrenchments and Scope
-				Structure
+			Retrenchments and Scope
+			Structure
+				Information Gathering and Collation
 
 ## Suggestions:
 	1. Background Information on Current Climate Forecasting
@@ -177,17 +178,56 @@ and later add the River Habitat.
 	Habitat Pages
 		Home
 		Forest
-		River
 		Savanna
+		Swamp
 
 	The Main page layout consists of the site title with the menu-bar
 	on the next line (Since the title is rather long).
 	The First section is an introduction to the site and its aims
 	and purposes
-	The Second section is the map section with an associated image
+	The Second section is the map section with associated images
 	and geographic text.
 	The Third section is a description of the habitats and wildlife
 	in general, with associated links.
 	The Fourth section is a description of human concerns and
 	associated links.
-		
+
+#### Information Gathering And Collation
+	Images:
+		Geography
+			National Map of Democratic Republic of the Congo
+				https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo#/media/File:Cg-map.png
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Cg-map.png">United States Central Intelligence Agency</a>, Public domain, via Wikimedia Commons
+				national-map.png
+			Habitat Map of Democratic Republic of the Congo
+				https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo#/media/File:Koppen-Geiger_Map_COD_present.svg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Koppen-Geiger_Map_COD_present.svg">Beck, H.E., Zimmermann, N. E., McVicar, T. R., Vergopolan, N., Berg, A., &amp; Wood, E. F.</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons
+				habitat-map
+				This requires editing, as the legend will be too small to read on 
+				mobile devices. The legend should be re-composed as HTML.
+
+		Habitats
+			Forest:
+				https://en.wikipedia.org/wiki/Congo_Basin#/media/File:Rainforest_-_Ituri_(20874628148).jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Rainforest_-_Ituri_(20874628148).jpg">MONUSCO Photos</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
+				rain-forest.jpg
+
+			Savanna:
+				https://upload.wikimedia.org/wikipedia/commons/6/61/View_from_the_rural_town_of_Masi_Manimba%2C_DRC_%287609936324%29.jpg
+				savanna.jpg
+
+			Swamp:
+				https://en.wikipedia.org/wiki/Eastern_Congolian_swamp_forests#/media/File:Maindombe1.JPG
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Maindombe1.JPG">J. Claeys Boùùaert</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+				swamp.jpg
+
+		Animals
+			Forest:
+				Blue Monkey
+				https://en.wikipedia.org/wiki/Blue_monkey#/media/File:Blue_monkey_(Cercopithecus_mitis_stuhlmanni).jpg
+				Author: By &lt;a href=&quot;https://www.wikidata.org/wiki/Q54800218&quot; class=&quot;extiw&quot; title=&quot;d:Q54800218&quot;&gt;&lt;span title=&quot;Scottish wildlife photographer&quot;&gt;Charles J. Sharp&lt;/span&gt;&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, from &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;http://www.sharpphotography.co.uk/&quot;&gt;Sharp Photography, sharpphotography&lt;/a&gt;, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54164448">Link</a>
+				blue-monkey.jpg
+
+
+	Text:
+		This should be re-composed from the sources.
