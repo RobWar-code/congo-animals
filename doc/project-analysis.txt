@@ -243,6 +243,46 @@ and later add the River Habitat.
 				Author: <a href="https://commons.wikimedia.org/wiki/File:African_civet.jpg">The original uploader was Baldhur at German Wikipedia.(Original text: http://www.atourhands.com/civet.html)</a>, Public domain, via Wikimedia Commons
 				african-civet.jpg
 
+				Angola Colubus
+				https://commons.wikimedia.org/wiki/File:Colobus_angolensis.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Colobus_angolensis.jpg">Ryan E. Poplin</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
+				angola-colubus.jpg
+
+				Tree Pangolin
+				https://commons.wikimedia.org/wiki/File:Manis_tricuspis_San_Diego_Zoo_03.2012.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Manis_tricuspis_San_Diego_Zoo_03.2012.jpg">Николай Усик / http://paradoxusik.livejournal.com/</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+				tree-pangolin.jpg
+
+			Savanna:
+				Giant Eland
+				https://en.wikipedia.org/wiki/Giant_eland#/media/File:Giant_eland_(Taurotragus_derbianus_derbianus)_male.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Giant_eland_(Taurotragus_derbianus_derbianus)_male.jpg">Charles J. Sharp</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+				giant-eland.jpg
+
+				Angolan White-throated Monitor
+				https://en.wikipedia.org/wiki/Angolan_white-throated_monitor#/media/File:Africa136.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Africa136.jpg">Jean-Louis Vandevivère</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
+				angolan-monitor.jpg
+
+				Rough-scaled Bush Viper
+				https://en.wikipedia.org/wiki/Atheris_hispida#/media/File:Atheris_hispida.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Atheris_hispida.jpg">Bree Mc, soulsurvivor08 at flickr.com</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
+				rough-scaled-bush-viper.jpg
+
+				Banded Mongoose
+				https://en.wikipedia.org/wiki/Banded_mongoose#/media/File:Banded_mongoose_(Mungos_mungo).jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Banded_mongoose_(Mungos_mungo).jpg">Charles J. Sharp</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+				banded-mongoose.jpg
+
+				African Leopard
+				https://commons.wikimedia.org/wiki/File:Namibie_Etosha_Leopard_01edit.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Namibie_Etosha_Leopard_01edit.jpg">Patrick Giraud (edited to fix white balance)</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+				african-leopard.jpg
+
+				Lion
+				https://en.wikipedia.org/wiki/Lion#/media/File:Okonjima_Lioness.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Okonjima_Lioness.jpg">Falense</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+				lion.jpg
 
 	Text:
 		This should be re-composed from the sources.
