@@ -214,6 +214,12 @@ The texts are in the folder assets/texts
 				habitat-map
 				This requires editing, as the legend will be too small to read on 
 				mobile devices. The legend should be re-composed as HTML.
+				
+		Animal Life
+			Gorilla
+			https://en.wikipedia.org/wiki/Western_gorilla#/media/File:WesternLowlandGorilla03.jpg
+			Author: <a href="https://commons.wikimedia.org/wiki/File:WesternLowlandGorilla03.jpg">Greg Hume</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+			gorilla.jpg
 
 		Habitats
 			Forest:
