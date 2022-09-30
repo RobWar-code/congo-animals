@@ -102,8 +102,9 @@
 		Congo Geography
 		Congo Habitats
 			Animals within those habitats (3)
-		Human interaction with the habitats
-		The Political Situation, Tourism and Interested Organisations
+		Human Concerns
+			Human interaction with the habitats
+			The Current Situation, Tourism and Interested Organisations
 
 	We will assume for now that this will require 7 pages
 
@@ -125,7 +126,6 @@
 	2 units for media adjustments, 0.5 unit each for testing, 2 unit for the README.md layout.
 	This only allows for 4 pages, so we must either modify our aims or condense
 	still further.
-
 
 	The PRIMARY aim, as given in the title, is to provide a snapshot of the animals
 	and their habitats for general interest.
@@ -151,20 +151,22 @@
 	Main
 		Geography
 		Animal Life  - Introduction
-		Habitats - Introduction
-		Links with text for Reader Interest and Follow-Up
+		Habitats
+			Summary Descriptions of the Terrain + pic
+		Human Concerns
+			Situation
+			Links with text for Reader Interest and Follow-Up
 	Savannah
-		Picture of terrain
-		6 Animals + Pics
+		6 Animal Texts + Pics
 	Forest
-		Picture of terrain
-		6 Animals + Pics
+		6 Animal Texts + Pics
 	Swamp
-		Picture of terrain
-		6 Animals + Pics
+		6 Animal Texts + Pics
 
-If we then have residual time we can move the Reader Interest to another page
+If we then have residual time we can move the Human Concerns to another page
 and later add the River Habitat.
+
+The texts are in the folder assets/texts
 
 ### Structure
 	To allow for future expansion of the site in an orderly way, the webpage connections
@@ -258,7 +260,7 @@ and later add the River Habitat.
 				https://en.wikipedia.org/wiki/Giant_forest_hog#/media/File:Hylochoerus_meinertzhageni2.jpg
 				Author: <a href="https://commons.wikimedia.org/wiki/File:Hylochoerus_meinertzhageni2.jpg">michell zappa from São Paulo, Brazil</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
 				giant-forest-hog.jpg
-				
+
 			Savanna:
 				Giant Eland
 				https://en.wikipedia.org/wiki/Giant_eland#/media/File:Giant_eland_(Taurotragus_derbianus_derbianus)_male.jpg
@@ -324,4 +326,29 @@ and later add the River Habitat.
 		This should be re-composed from the sources.
 
 ### Skeleton
+#### Main, Geography Page
+	The sections are arranged vertically, with each section heading centered on a background colour.
 
+	Introductory Text
+		This is unlikely to be sufficient to justify three columns. Better would be to use two
+		with the left-most providing links to the other sections on the page.
+	Maps and Associated Text
+		The maps should be ranged left, and because of their size, we should stick to the
+		full-width for text established for the habitat pages.
+	Animal Life
+		A summary of the bio-diversity of the country
+	Habitats
+		These sections consist of a typification picture and a brief description of the
+		terrain, as for the maps section, the pictures should be ranged left.
+	Human Concerns
+		This consists of a situation section followed by a brief description of and
+		links to associated organisations. The organisation names should be ranged left
+		with the associated text following.
+
+#### Habitat Pages
+	These consist of pictures of animals and associated text. The pictures are of variable 
+	dimensions, but typically 512px wide. We could use a two-column layout for a typical PC 
+	screen, but if we use wrap-around text, some of the text columnation around the images
+	would make for awkward reading, better would be to use the full page width and a largish
+	font for readability. The pictures can then be ranged alternately left and right, in an
+	informal arrangement.
