@@ -15,6 +15,7 @@
 			Retrenchments and Scope
 			Structure
 				Information Gathering and Collation
+			Skeleton
 
 ## Suggestions:
 	1. Background Information on Current Climate Forecasting
@@ -253,6 +254,11 @@ and later add the River Habitat.
 				Author: <a href="https://commons.wikimedia.org/wiki/File:Manis_tricuspis_San_Diego_Zoo_03.2012.jpg">Николай Усик / http://paradoxusik.livejournal.com/</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 				tree-pangolin.jpg
 
+				Giant Forest Hog
+				https://en.wikipedia.org/wiki/Giant_forest_hog#/media/File:Hylochoerus_meinertzhageni2.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Hylochoerus_meinertzhageni2.jpg">michell zappa from São Paulo, Brazil</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
+				giant-forest-hog.jpg
+				
 			Savanna:
 				Giant Eland
 				https://en.wikipedia.org/wiki/Giant_eland#/media/File:Giant_eland_(Taurotragus_derbianus_derbianus)_male.jpg
@@ -284,5 +290,38 @@ and later add the River Habitat.
 				Author: <a href="https://commons.wikimedia.org/wiki/File:Okonjima_Lioness.jpg">Falense</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 				lion.jpg
 
+			Swamp:
+				Allens Swamp Monkey
+				https://en.wikipedia.org/wiki/Allen%27s_swamp_monkey#/media/File:Allens_swamp_monkey.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Allens_swamp_monkey.jpg">Grendelkhan</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+				allens-swamp-monkey.jpg
+
+				Giant Otter Shrew
+				https://upload.wikimedia.org/wikipedia/commons/9/9d/Potamogale_chaillu.jpg
+				Author: - link as above
+				giant-otter-shrew.jpg
+
+				Slender-snouted Crocodile
+				https://commons.wikimedia.org/wiki/File:Mecistops_leptorhynchus_2009.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Mecistops_leptorhynchus_2009.jpg">Leyo</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en">CC BY-SA 3.0 CH</a>, via Wikimedia Commons
+				slender-snouted-crocodile.jpg
+
+				Helmeted Terrapin
+				https://commons.wikimedia.org/wiki/File:Helmeted_Terrapin_(Pelomedusa_subrufa)_(17974863358).jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Helmeted_Terrapin_(Pelomedusa_subrufa)_(17974863358).jpg">Bernard DUPONT from FRANCE</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
+				helmeted-terrapin.jpg
+
+				Banded Water Cobra
+				https://commons.wikimedia.org/wiki/File:Boulengerina_annulata_2.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Boulengerina_annulata_2.jpg">Al Cortiz</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+				banded-water-cobra.jpg
+
+				African Dwarf Frog
+				https://en.wikipedia.org/wiki/African_dwarf_frog#/media/File:African_dwarf_frog.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:African_dwarf_frog.jpg">James Gathany</a>, Public domain, via Wikimedia Commons
+
 	Text:
 		This should be re-composed from the sources.
+
+### Skeleton
+
