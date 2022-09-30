@@ -197,6 +197,12 @@ The texts are in the folder assets/texts
 
 #### Information Gathering And Collation
 	Images:
+		Introduction
+			Grey Parrot
+			https://en.wikipedia.org/wiki/Grey_parrot#/media/File:Psittacus_erithacus_-flying-8a.jpg
+			Author: <a href="https://commons.wikimedia.org/wiki/File:Psittacus_erithacus_-flying-8a.jpg">Robert01</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0 DE</a>, via Wikimedia Commons
+			grey-parrot.jpg
+
 		Geography
 			National Map of Democratic Republic of the Congo
 				https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo#/media/File:Cg-map.png
@@ -330,8 +336,10 @@ The texts are in the folder assets/texts
 	The sections are arranged vertically, with each section heading centered on a background colour.
 
 	Introductory Text
-		This is unlikely to be sufficient to justify three columns. Better would be to use two
-		with the left-most providing links to the other sections on the page.
+		This can be ranged across three columns:
+			Introductory Text
+			Picture
+			Page Contents
 	Maps and Associated Text
 		The maps should be ranged left, and because of their size, we should stick to the
 		full-width for text established for the habitat pages.
