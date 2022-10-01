@@ -170,19 +170,22 @@ The texts are in the folder assets/texts
 
 ### Structure
 	To allow for future expansion of the site in an orderly way, the webpage connections
-	should be heirarchical for the habitats, we might later divide them into
+	could be heirarchical for the habitats, we might later divide them into
 	birds, reptiles, mammals, fish etc. The human concerns and other issues could then be 
-	lateral on the menu. The menues are therefore arranged as follows:
+	lateral on the menu. However, for ease of understanding and since the site only
+	consists of four pages, the following would be clearer:
 
 	Main Page
 		Home
-		Habitats - goes to the first habitat page (alphabetical)
+		Forest Animals
+		Savanna Animals
+		Swamp Animals
 
 	Habitat Pages
 		Home
-		Forest
-		Savanna
-		Swamp
+		Forest Animals
+		Savanna Animals
+		Swamp Animals
 
 	The Main page layout consists of the site title with the menu-bar
 	on the next line (Since the title is rather long).
