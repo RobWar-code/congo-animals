@@ -364,8 +364,27 @@ The texts are in the folder assets/texts
 
 #### Habitat Pages
 	These consist of pictures of animals and associated text. The pictures are of variable 
-	dimensions, but typically 512px wide. We could use a two-column layout for a typical PC 
+	are typically 512px wide. We could use a two-column layout for a typical PC 
 	screen, but if we use wrap-around text, some of the text columnation around the images
 	would make for awkward reading, better would be to use the full page width and a largish
-	font for readability. The pictures can then be ranged alternately left and right, in an
-	informal arrangement.
+	font for readability. The pictures could then be ranged alternately left and right, in an
+	informal arrangement. In fact, if we take the average PC display width to be 1600px, then
+	because the amount of text is relatively small, we can range the text to the right of
+	an image on one row and the left on another, with two images per row.
+
+### Surface
+
+	Colors:
+
+	The background color for the title bar is a fairly dark-green say #009000, with
+	the font color being white.
+	The menu bar is a slightly more grey-green #70a070
+	The background color for the body is a very light green say #c0ffc0, which is
+	sufficient to contrast with black text.
+	The section title bars (h2) have the background color #009000 as well.
+
+	Fonts:
+
+	A fairly decorative serif font can be used for the title bar, but for h2 and the menu
+	rather more formal. The body text should a be a fairly heavy font for readability
+	against the background.

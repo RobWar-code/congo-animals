@@ -1,0 +1,44 @@
+/* font Domine */
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&family=Lato:ital,wght@1,300&family=Oswald:wght@300&display=swap');
+/* font Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&family=Lato:ital,wght@1,300&family=Montserrat&family=Oswald:wght@300&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body {
+    background-color: #c0f0c0;
+    font-family: Montserrat, sans-serif;
+    font-size: 124%;
+}
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #009000;
+    color: white;
+    font-family: Domine, 'Times New Roman', Times, serif;
+    font-size: 210%;
+    text-align: center;
+}
+nav {
+    background-color: #80b080;
+    height: 50px;
+}
+nav ul {
+    float: right;
+}
+nav li {
+    display: inline;
+ 
+}
+nav a {
+    text-decoration: none;
+    font-size: 132%;
+    padding-right: 8px;
+    line-height: 50px;
+    color: black;
+}
+nav a:hover {
+    background-color: white;
+}
