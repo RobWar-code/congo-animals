@@ -22,9 +22,17 @@ h1 {
     text-align: center;
 }
 .three-column div {
-    width: 33.3%;
-    padding: 8px;
+    width: 30%;
+    padding: 10px;
+}
+.div1-3col {
     float: left;
+}
+.div2-3col {
+    float: left;
+}
+.div3-3col {
+    float: right;
 }
 nav {
     background-color: #80b080;
@@ -45,4 +53,11 @@ nav a {
 }
 nav a:hover {
     background-color: white;
+}
+/* Introductory Section */
+#headings-list {
+    text-align: center;
+}
+#grey-parrot-inflight {
+    width: 100%;
 }
