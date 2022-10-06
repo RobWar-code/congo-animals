@@ -201,7 +201,7 @@ The texts are in the folder assets/texts
 #### Information Gathering And Collation
 	Images:
 		Introduction
-			Grey Parrot
+			Grey Parrot in Flight
 			https://en.wikipedia.org/wiki/Grey_parrot#/media/File:Psittacus_erithacus_-flying-8a.jpg
 			Author: <a href="https://commons.wikimedia.org/wiki/File:Psittacus_erithacus_-flying-8a.jpg">Robert01</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0 DE</a>, via Wikimedia Commons
 			grey-parrot.jpg

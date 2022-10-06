@@ -21,6 +21,11 @@ h1 {
     font-size: 210%;
     text-align: center;
 }
+.three-column div {
+    width: 33.3%;
+    padding: 8px;
+    float: left;
+}
 nav {
     background-color: #80b080;
     height: 50px;
@@ -30,7 +35,6 @@ nav ul {
 }
 nav li {
     display: inline;
- 
 }
 nav a {
     text-decoration: none;
