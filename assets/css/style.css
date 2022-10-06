@@ -21,6 +21,10 @@ h1 {
     font-size: 210%;
     text-align: center;
 }
+.attributions {
+    font-size: 85%;
+    font-style: italic;
+}
 .three-column div {
     width: 30%;
     padding: 10px;
@@ -33,7 +37,39 @@ h1 {
 }
 .div3-3col {
     float: right;
+    margin-right: 10px;
 }
+/* 4 Column, text and image layout */
+.four-col {
+    width: 100%;
+}
+.four-col div {
+    margin: 10px 0 10px 10px;
+}
+.div1-4cola {
+    width: 30%;
+    float: left;
+}
+.div2-4cola {
+    width: 20%;
+    float: left;
+}
+.div3-4cola {
+    width: 30%;
+    float: left;
+}
+.div4-4cola {
+    width: 20%;
+    float: right;
+    margin-right: 10px;
+}
+.section-header {
+    width: 100%;
+    background-color:#80b080;
+    line-height: 40px;
+    text-align: center;
+}
+/* Navigation */
 nav {
     background-color: #80b080;
     height: 50px;
@@ -54,10 +90,29 @@ nav a {
 nav a:hover {
     background-color: white;
 }
+
 /* Introductory Section */
-#headings-list {
+#introductory-div {
+    width: 100%;
+}
+#introduction > p {
+    margin-top: 10px;
+}
+#section-lookup h2 {
     text-align: center;
+}
+#headings-list {
+    margin-top: 10px;
+    list-style: none;
+    text-align: center;
+}
+#headings-list li {
+    line-height: 40px;
 }
 #grey-parrot-inflight {
     width: 100%;
+}
+/* Geography Section */
+#geography {
+    clear: both;
 }

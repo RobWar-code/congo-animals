@@ -16,6 +16,7 @@
 			Structure
 				Information Gathering and Collation
 			Skeleton
+			Surface
 
 ## Suggestions:
 	1. Background Information on Current Climate Forecasting
