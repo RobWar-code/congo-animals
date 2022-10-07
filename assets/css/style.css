@@ -116,8 +116,15 @@ nav a:hover {
 #geography {
     clear: both;
 }
-#geography-div div {
+#geography-div > div {
     width: 23%;
     margin: 10px 0 10px 10px;
     float: left;
+}
+#national-map {
+    border: 2px solid black;
+}
+#habitat-map {
+    width: 100%;
+    border: 2px solid black;
 }
