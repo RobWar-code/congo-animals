@@ -220,11 +220,16 @@ The texts are in the folder assets/texts
 				mobile devices. The legend should be re-composed as HTML.
 				
 		Animal Life
-			Gorilla
+			Western Lowland Gorilla
 			https://en.wikipedia.org/wiki/Western_gorilla#/media/File:WesternLowlandGorilla03.jpg
 			Author: <a href="https://commons.wikimedia.org/wiki/File:WesternLowlandGorilla03.jpg">Greg Hume</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 			gorilla.jpg
 
+			Grant's Zebra 
+			https://en.wikipedia.org/wiki/Grant%27s_zebra#/media/File:Equus_quagga.jpg
+			Author: <a href="https://commons.wikimedia.org/wiki/File:Equus_quagga.jpg">Joachim Huber</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
+			zebra.jpg
+			
 		Habitats
 			Forest:
 				https://en.wikipedia.org/wiki/Congo_Basin#/media/File:Rainforest_-_Ituri_(20874628148).jpg

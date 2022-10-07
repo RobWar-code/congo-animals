@@ -18,8 +18,11 @@ h1 {
     background-color: #009000;
     color: white;
     font-family: Domine, 'Times New Roman', Times, serif;
-    font-size: 210%;
+    font-size: 1.5em;
     text-align: center;
+}
+p {
+    font-size: 1.0em;
 }
 .attributions {
     font-size: 85%;
@@ -124,6 +127,7 @@ nav a:hover {
     width: 23%;
 }
 #national-map {
+    width: 100%;
     border: 2px solid black;
 }
 #national-map-text-div {
@@ -139,4 +143,33 @@ nav a:hover {
 #habitat-map-text-div {
     width: 16%;
     float: right;
+}
+/* Animal Life section */
+#animal-life-div {
+    clear: both;
+    width: 100%;
+}
+#animal-life-div div {
+    margin: 10px 0 10px 10px;
+    float: left;
+}
+#gorilla-pic-div {
+    width: 23%;
+}
+#gorilla-img {
+    width: 100%;
+}
+#animal-life-text-div {
+    width: 36%;
+}
+#slender-snouted-crocodile-img {
+    width:100%;
+}
+#zebra-pic-div {
+    width: 37%;
+    float: right;
+    margin-right: 10px;
+}
+#zebra-img {
+    width: 100%;
 }
