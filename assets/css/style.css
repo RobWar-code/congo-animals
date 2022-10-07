@@ -117,14 +117,26 @@ nav a:hover {
     clear: both;
 }
 #geography-div > div {
-    width: 23%;
     margin: 10px 0 10px 10px;
     float: left;
+}
+#national-map-div {
+    width: 23%;
 }
 #national-map {
     border: 2px solid black;
 }
+#national-map-text-div {
+    width: 23%;
+}
+#habitat-map-div {
+    width: 32%;
+}
 #habitat-map {
     width: 100%;
     border: 2px solid black;
+}
+#habitat-map-text-div {
+    width: 16%;
+    float: right;
 }
