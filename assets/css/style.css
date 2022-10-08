@@ -173,3 +173,27 @@ nav a:hover {
 #zebra-img {
     width: 100%;
 }
+/* Habitats */
+#habitats {
+    clear: both;
+    width: 100%;
+}
+#habitats-div {
+    width: 100%;
+}
+#habitats-div > div {
+    margin: 10px 0 10px 10px;
+    float: left;
+}
+#forest-div {
+    width: 30%;
+}
+#rainforest-img {
+    width:100%;
+}
+#savanna-div {
+    width: 30%;
+}
+#savanna-img {
+    width: 100%;
+}

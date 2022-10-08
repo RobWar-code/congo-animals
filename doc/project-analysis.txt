@@ -225,6 +225,11 @@ The texts are in the folder assets/texts
 			Author: <a href="https://commons.wikimedia.org/wiki/File:WesternLowlandGorilla03.jpg">Greg Hume</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 			gorilla.jpg
 
+			Slender-snouted Crocodile
+			https://commons.wikimedia.org/wiki/File:Mecistops_leptorhynchus_2009.jpg
+			Author: <a href="https://commons.wikimedia.org/wiki/File:Mecistops_leptorhynchus_2009.jpg">Leyo</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en">CC BY-SA 3.0 CH</a>, via Wikimedia Commons
+			slender-snouted-crocodile.jpg
+
 			Grant's Zebra 
 			https://en.wikipedia.org/wiki/Grant%27s_zebra#/media/File:Equus_quagga.jpg
 			Author: <a href="https://commons.wikimedia.org/wiki/File:Equus_quagga.jpg">Joachim Huber</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
@@ -238,6 +243,7 @@ The texts are in the folder assets/texts
 
 			Savanna:
 				https://upload.wikimedia.org/wikipedia/commons/6/61/View_from_the_rural_town_of_Masi_Manimba%2C_DRC_%287609936324%29.jpg
+				Author: <a href="https://commons.wikimedia.org/wiki/File:View_from_the_rural_town_of_Masi_Manimba,_DRC_(7609936324).jpg">DFID - UK Department for International Development</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
 				savanna.jpg
 
 			Swamp:
@@ -323,11 +329,6 @@ The texts are in the folder assets/texts
 				https://upload.wikimedia.org/wikipedia/commons/9/9d/Potamogale_chaillu.jpg
 				Author: - link as above
 				giant-otter-shrew.jpg
-
-				Slender-snouted Crocodile
-				https://commons.wikimedia.org/wiki/File:Mecistops_leptorhynchus_2009.jpg
-				Author: <a href="https://commons.wikimedia.org/wiki/File:Mecistops_leptorhynchus_2009.jpg">Leyo</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en">CC BY-SA 3.0 CH</a>, via Wikimedia Commons
-				slender-snouted-crocodile.jpg
 
 				Helmeted Terrapin
 				https://commons.wikimedia.org/wiki/File:Helmeted_Terrapin_(Pelomedusa_subrufa)_(17974863358).jpg
