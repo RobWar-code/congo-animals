@@ -28,6 +28,9 @@ p {
     font-size: 85%;
     font-style: italic;
 }
+.highlight-text {
+    font-style: italic;
+}
 .three-column div {
     width: 30%;
     padding: 10px;
@@ -205,4 +208,50 @@ nav a:hover {
 #swamp-img {
     margin-top: 26px;
     width: 100%;
+}
+/* Human Concerns Section */
+#human-concerns {
+    clear: both;
+    width: 100%;
+}
+#human-concerns-div {
+    width: 100%;
+}
+#human-concerns-div > div {
+    margin: 10px 0 10px 10px;
+    float: left;
+}
+#human-concerns-info-div {
+    width: 32%;
+}
+#human-concerns-info-div p {
+    margin-bottom: 10px;
+}
+#human-concerns-info-div li {
+    margin-left: 15%;
+}
+#environmental-orgs-div {
+    width: 32%;
+    text-align: center;
+}
+#environmental-orgs-list {
+    margin-top: 20px;
+    list-style: none;
+}
+#environmental-orgs-list li {
+    margin-bottom: 8px;
+}
+#tourism-div {
+    width: 32%;
+    float: right;
+    text-align: right;
+}
+#tourism-div p {
+    margin-bottom: 10px;
+}
+#tourism-orgs-list {
+    list-style: none;
+}
+#tourism-orgs-list li {
+    margin-bottom: 8px;
 }
