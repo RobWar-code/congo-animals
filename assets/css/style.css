@@ -186,14 +186,23 @@ nav a:hover {
     float: left;
 }
 #forest-div {
-    width: 30%;
+    width: 32%;
 }
 #rainforest-img {
     width:100%;
 }
 #savanna-div {
-    width: 30%;
+    width: 32%;
 }
 #savanna-img {
+    width: 100%;
+}
+#swamp-div {
+    width: 32%;
+    float: right;
+    margin-right: 10px;
+}
+#swamp-img {
+    margin-top: 26px;
     width: 100%;
 }
