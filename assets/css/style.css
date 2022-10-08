@@ -31,20 +31,6 @@ p {
 .highlight-text {
     font-style: italic;
 }
-.three-column div {
-    width: 30%;
-    padding: 10px;
-}
-.div1-3col {
-    float: left;
-}
-.div2-3col {
-    float: left;
-}
-.div3-3col {
-    float: right;
-    margin-right: 10px;
-}
 /* 4 Column, text and image layout */
 .four-col {
     width: 100%;
