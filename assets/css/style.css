@@ -88,10 +88,11 @@ nav li {
 }
 nav a {
     text-decoration: none;
-    font-size: 132%;
-    padding-right: 8px;
+    font-size: 1.1em;
+    margin-right: 8px;
     line-height: 50px;
     color: black;
+    background-color: #80c080;
 }
 nav a:hover {
     background-color: white;
@@ -101,8 +102,18 @@ nav a:hover {
 #introductory-div {
     width: 100%;
 }
+#introduction {
+    width: 32%;
+    float: left;
+    margin: 0 0 10px 10px;
+}
 #introduction > p {
     margin-top: 10px;
+}
+#section-lookup {
+    width: 32%;
+    float: left;
+    margin: 0 0 10px 10px;
 }
 #section-lookup h2 {
     text-align: center;
@@ -115,6 +126,11 @@ nav a:hover {
 #headings-list li {
     line-height: 40px;
 }
+#grey-parrot-img-div {
+    width: 22%;
+    float: right;
+    margin: 0px 10px 10px 10px;
+}
 #grey-parrot-inflight {
     width: 100%;
 }
@@ -122,30 +138,33 @@ nav a:hover {
 #geography {
     clear: both;
 }
-#geography-div > div {
-    margin: 10px 0 10px 10px;
-    float: left;
-}
 #national-map-div {
-    width: 23%;
+    float: left;
+    width: 18%;
+    margin: 10px 0 10px 10px;
 }
 #national-map {
     width: 100%;
     border: 2px solid black;
 }
 #national-map-text-div {
-    width: 23%;
+    float: left;
+    width: 25%;
+    margin: 10px 0 10px 20px;
 }
 #habitat-map-div {
-    width: 32%;
+    float: left;
+    width: 30%;
+    margin: 10px 0 10px 10px;
 }
 #habitat-map {
     width: 100%;
     border: 2px solid black;
 }
 #habitat-map-text-div {
-    width: 16%;
     float: right;
+    width: 23%;
+    margin: 10px 10px 10px 10px;
 }
 /* Animal Life section */
 #animal-life-div {
