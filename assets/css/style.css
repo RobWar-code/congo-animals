@@ -198,11 +198,23 @@ nav a:hover {
 #forest-div {
     width: 32%;
 }
+#forest-text-div {
+    width: 100%;
+}
+#forest-pic-div {
+    width: 100%;
+}
 #rainforest-img {
-    width:100%;
+    width: 100%;
 }
 #savanna-div {
     width: 32%;
+}
+#savanna-text-div {
+    width: 100%;
+}
+#savanna-pic-div {
+    width: 100%;
 }
 #savanna-img {
     width: 100%;
@@ -211,6 +223,12 @@ nav a:hover {
     width: 32%;
     float: right;
     margin-right: 10px;
+}
+#swamp-text-div {
+    width: 100%;
+}
+#swamp-pic-div {
+    width: 100%;
 }
 #swamp-img {
     margin-top: 26px;
@@ -312,4 +330,39 @@ nav a:hover {
         clear: both;
         width: 98%;
     }
-}
+    /* Habitats Section */
+    #forest-div {
+        width: 48%;
+    }
+    #savanna-div {
+        width: 49%;
+        float: right;
+        margin-right: 10px;
+    }
+    #swamp-div {
+        clear: both;
+        width: 98%;
+    }
+    #swamp-text-div {
+        width: 55%;
+        float: left;
+    }
+    #swamp-pic-div {
+        width: 40%;
+        float: right;
+    }
+    /* Human Concerns Section */
+    #human-concerns-info-div {
+        width: 48%;
+    }
+    #environmental-orgs-div {
+        width: 48%;
+        float: right;
+        margin-right: 10px;
+    }
+    #tourism-div {
+        clear: both;
+        width: 98%;
+        text-align: center;
+    }
+ }
