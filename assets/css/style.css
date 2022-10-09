@@ -25,7 +25,7 @@ p {
     font-size: 1.0em;
 }
 .attributions {
-    font-size: 85%;
+    font-size: 0.7em;
     font-style: italic;
 }
 .highlight-text {
@@ -71,11 +71,11 @@ nav ul {
 }
 nav li {
     display: inline;
+    margin-right: 8px;
 }
 nav a {
     text-decoration: none;
     font-size: 1.1em;
-    margin-right: 8px;
     line-height: 50px;
     color: black;
     background-color: #80c080;
@@ -83,7 +83,9 @@ nav a {
 nav a:hover {
     background-color: white;
 }
-
+.current-page {
+    text-decoration: underline;
+}
 /* Introductory Section */
 #introductory-div {
     width: 100%;
@@ -97,7 +99,7 @@ nav a:hover {
     margin-top: 10px;
 }
 #section-lookup {
-    width: 32%;
+    width: 31%;
     float: left;
     margin: 0 0 10px 10px;
 }
@@ -113,9 +115,9 @@ nav a:hover {
     line-height: 40px;
 }
 #grey-parrot-img-div {
-    width: 22%;
+    width: 25%;
     float: right;
-    margin: 0px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
 }
 #grey-parrot-inflight {
     width: 100%;
@@ -149,7 +151,7 @@ nav a:hover {
 }
 #habitat-map-text-div {
     float: right;
-    width: 23%;
+    width: 22%;
     margin: 10px 10px 10px 10px;
 }
 /* Animal Life section */
@@ -259,4 +261,39 @@ nav a:hover {
 }
 #tourism-orgs-list li {
     margin-bottom: 8px;
+}
+
+/* Media Adaptations */
+@media screen and (max-width: 1200px) {
+    /* Introductory Section */
+    #introduction {
+        width: 48%;
+    }
+    #section-lookup {
+        width: 48%;
+        float: right;
+    }
+    #grey-parrot-img-div {
+        clear: both;
+        width: 98%;
+        margin: 0 10px 10px 10px;
+    }
+    /* Geography Section */
+    #national-map-div {
+        width: 30%;
+    }
+    #national-map-text-div {
+        width: 64%;
+        margin-right: 10px;
+        float: right;
+    }
+    #habitat-map-div {
+        width: 55%;
+        margin-right: 10px;
+        float: right;
+    }
+    #habitat-map-text-div {
+        float: left;
+        width: 40%;
+    }
 }
