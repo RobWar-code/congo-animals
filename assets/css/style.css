@@ -296,4 +296,20 @@ nav a:hover {
         float: left;
         width: 40%;
     }
+    /* Animal Life Section */
+    #gorilla-pic-div {
+        width: 35%;
+    }
+    #animal-life-text-div {
+        width: 60%;
+        float: right;
+        margin-right: 10px;
+    }
+    #slender-snouted-crocodile-img {
+        margin-top: 10px;
+    }
+    #zebra-pic-div {
+        clear: both;
+        width: 98%;
+    }
 }
