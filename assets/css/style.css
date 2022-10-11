@@ -366,3 +366,43 @@ nav a:hover {
         text-align: center;
     }
  }
+ @media screen and (max-width: 850px) {
+    /* Reduce to single column */
+    /* 
+        Notes: I tried using a class to override the columnation 
+        in a single css section, but perhaps these media queries
+        only override id's/classes defined EXPLICITLY?
+    */
+
+    /* Introductory Section */
+    #introductory-div > div {
+        width: 96%;
+        float: none;
+        margin: 10px auto;
+    }
+    #introduction h2 {
+        text-align: center;
+    }
+    /* Geography Section */
+    #geography-div > div {
+        width: 96%;
+        float: none;
+        margin: 10px auto;
+    }
+    /* Animal Life Section */
+    #animal-life-div > div {
+        width: 96%;
+        float: none;
+        margin: 10px auto;
+    }
+    /* Habitats Section */
+    #habitats-div > div {
+        width: 96%;
+        float: none;
+        margin: 10px auto;
+    }
+    #habitats-div h3 {
+        text-align: center;
+    }
+
+ }
