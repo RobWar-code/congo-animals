@@ -281,6 +281,38 @@ nav a:hover {
     margin-bottom: 8px;
 }
 
+/* FOREST ANIMALS PAGE */
+.animals-header {
+    width: 98%;
+    margin: 10px auto;
+}
+.columnated-div {
+    clear: both;
+    width: 98%;
+    margin: 0 auto;
+    column-count: 3;
+    column-gap: 4px;
+}
+.pic-and-text {
+    overflow: hidden;
+    width: 96%;
+    margin: 0 auto;
+    border: 2px solid #008000;
+    border-radius: 4px;
+}
+.pic-and-text h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.animal-header {
+    text-align: center;
+}
+.animal-text {
+    margin: 10px 5px 10px 5px;
+}
+.animal-pic {
+    width: 100%;
+}
 /* Media Adaptations */
 @media screen and (max-width: 1200px) {
     /* Introductory Section */

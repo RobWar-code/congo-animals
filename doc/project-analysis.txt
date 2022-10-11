@@ -260,7 +260,7 @@ The texts are in the folder assets/texts
 
 				Black-collared Lovebird
 				https://en.wikipedia.org/wiki/Black-collared_lovebird#/media/File:Stavenn_Agapornis_swindernianus_00.jpg
-				Author: By &lt;a href=&quot;//commons.wikimedia.org/wiki/User:Stavenn&quot; title=&quot;User:Stavenn&quot;&gt;Stavenn&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1753569">Link</a>
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Stavenn_Agapornis_swindernianus_00.jpg">Stavenn</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 				black-collared-lovebird.jpg
 
 				Bonobo
