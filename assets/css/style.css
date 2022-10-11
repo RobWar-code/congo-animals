@@ -374,6 +374,9 @@ nav a:hover {
         only override id's/classes defined EXPLICITLY?
     */
 
+    h3 {
+        background-color: #80b880;
+    }
     /* Introductory Section */
     #introductory-div > div {
         width: 96%;
@@ -396,7 +399,7 @@ nav a:hover {
         margin: 10px auto;
     }
     /* Habitats Section */
-    #habitats-div > div {
+    #habitats-div div {
         width: 96%;
         float: none;
         margin: 10px auto;
@@ -404,5 +407,14 @@ nav a:hover {
     #habitats-div h3 {
         text-align: center;
     }
-
+    /* Human Concerns Section */
+    #human-concerns-div > div{
+        width: 96%;
+        float: none;
+        margin: 10px auto;
+    }
+    #national-parks-list-div {
+        width: 50%;
+        margin: 0 auto;
+    }
  }
