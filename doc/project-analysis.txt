@@ -255,7 +255,7 @@ The texts are in the folder assets/texts
 			Forest:
 				Blue Monkey
 				https://en.wikipedia.org/wiki/Blue_monkey#/media/File:Blue_monkey_(Cercopithecus_mitis_stuhlmanni).jpg
-				Author: By &lt;a href=&quot;https://www.wikidata.org/wiki/Q54800218&quot; class=&quot;extiw&quot; title=&quot;d:Q54800218&quot;&gt;&lt;span title=&quot;Scottish wildlife photographer&quot;&gt;Charles J. Sharp&lt;/span&gt;&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, from &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;http://www.sharpphotography.co.uk/&quot;&gt;Sharp Photography, sharpphotography&lt;/a&gt;, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54164448">Link</a>
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Blue_monkey_(Cercopithecus_mitis_stuhlmanni).jpg">Charles J. Sharp</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 				blue-monkey.jpg
 
 				Black-collared Lovebird
