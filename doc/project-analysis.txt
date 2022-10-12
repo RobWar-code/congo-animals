@@ -330,10 +330,10 @@ The texts are in the folder assets/texts
 				Author: - link as above
 				giant-otter-shrew.jpg
 
-				Helmeted Terrapin
+				African Helmeted Turtle
 				https://commons.wikimedia.org/wiki/File:Helmeted_Terrapin_(Pelomedusa_subrufa)_(17974863358).jpg
 				Author: <a href="https://commons.wikimedia.org/wiki/File:Helmeted_Terrapin_(Pelomedusa_subrufa)_(17974863358).jpg">Bernard DUPONT from FRANCE</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
-				helmeted-terrapin.jpg
+				african-helmeted-turtle.jpg
 
 				Banded Water Cobra
 				https://commons.wikimedia.org/wiki/File:Boulengerina_annulata_2.jpg
