@@ -24,6 +24,9 @@ h1 {
 p {
     font-size: 1.0em;
 }
+a:hover {
+    background-color: white;
+}
 .attributions {
     font-size: 0.7em;
     font-style: italic;
@@ -56,20 +59,18 @@ nav a {
     color: black;
     background-color: #80c080;
 }
-nav a:hover {
-    background-color: white;
-}
 .current-page {
     text-decoration: underline;
 }
 /* Introductory Section */
 #introductory-div {
-    width: 100%;
+    width: 96%;
+    margin: 0 auto;
 }
 #introduction {
     width: 32%;
     float: left;
-    margin: 0 0 10px 10px;
+    margin: 0 0 10px 0;
 }
 #introduction > p {
     margin-top: 10px;
@@ -93,7 +94,7 @@ nav a:hover {
 #grey-parrot-img-div {
     width: 25%;
     float: right;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 0 10px 10px;
 }
 #grey-parrot-inflight {
     width: 100%;
@@ -101,6 +102,10 @@ nav a:hover {
 /* Geography Section */
 #geography {
     clear: both;
+}
+#geograph-div {
+    width: 96%;
+    margin: 0 auto;
 }
 #national-map-div {
     float: left;
@@ -130,31 +135,35 @@ nav a:hover {
     width: 22%;
     margin: 10px 10px 10px 10px;
 }
+#animal-life {
+    clear: both;
+}
 /* Animal Life section */
 #animal-life-div {
-    clear: both;
-    width: 100%;
+    width: 96%;
+    margin: 0 auto;
 }
 #animal-life-div div {
-    margin: 10px 0 10px 10px;
+    margin: 10px 10px;
     float: left;
 }
 #gorilla-pic-div {
     width: 23%;
+    margin-right: 10px;
 }
 #gorilla-img {
     width: 100%;
 }
 #animal-life-text-div {
-    width: 36%;
+    width: 32%;
+    margin-right: 10px;
 }
 #slender-snouted-crocodile-img {
     width:100%;
 }
 #zebra-pic-div {
-    width: 37%;
+    width: 41%;
     float: right;
-    margin-right: 10px;
 }
 #zebra-img {
     width: 100%;
@@ -255,6 +264,19 @@ nav a:hover {
 }
 #tourism-orgs-list li {
     margin-bottom: 8px;
+}
+#page-top-link-div {
+    clear: both;
+    text-align: center;
+}
+#page-top-link {
+    background-color:#80b080;
+    line-height: 50px;
+    font-size: 1.2em;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
 }
 
 /* SNAPSHOT PAGES */

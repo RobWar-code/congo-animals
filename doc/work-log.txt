@@ -1,0 +1,15 @@
+Work Due 
+ Do the project README file
+
+ Do the systematic testing
+
+Work Done
+    12/10/22
+
+    * Add link to return to top of page on index.html
+
+    * Make all links white background on hover
+
+    * Replace national-map by higher-resolution image
+
+    * Correct the div centering on index.html
