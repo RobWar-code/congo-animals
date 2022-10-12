@@ -202,6 +202,11 @@ The texts are in the folder assets/texts
 #### Information Gathering And Collation
 	Images:
 		Introduction
+			Nile Crocodile
+			https://commons.wikimedia.org/wiki/File:Largest_and_longest_Crocodile_in_Entebbe.jpg
+			Author: <a href="https://commons.wikimedia.org/wiki/File:Largest_and_longest_Crocodile_in_Entebbe.jpg">Stnts256</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+			nile-crocodile.jpg
+
 			Grey Parrot in Flight
 			https://en.wikipedia.org/wiki/Grey_parrot#/media/File:Psittacus_erithacus_-flying-8a.jpg
 			Author: <a href="https://commons.wikimedia.org/wiki/File:Psittacus_erithacus_-flying-8a.jpg">Robert01</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0 DE</a>, via Wikimedia Commons

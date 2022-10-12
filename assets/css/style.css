@@ -73,11 +73,14 @@ nav a {
     margin: 0 0 10px 0;
 }
 #introduction > p {
-    margin-top: 10px;
+    margin-top: 5px;
+}
+#nile-crocodile-pic {
+    width: 100%;
 }
 #section-lookup {
     width: 31%;
-    padding-bottom: 10%;
+    padding-bottom: 12%;
     float: left;
     background-color: #a0f0a0;
     margin: 0 0 10px 10px;
@@ -94,7 +97,7 @@ nav a {
     line-height: 40px;
 }
 #grey-parrot-img-div {
-    width: 33%;
+    width: 34%;
     float: right;
     margin: 10px 0 10px 10px;
 }
