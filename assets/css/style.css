@@ -31,30 +31,6 @@ p {
 .highlight-text {
     font-style: italic;
 }
-/* 4 Column, text and image layout */
-.four-col {
-    width: 100%;
-}
-.four-col div {
-    margin: 10px 0 10px 10px;
-}
-.div1-4cola {
-    width: 30%;
-    float: left;
-}
-.div2-4cola {
-    width: 20%;
-    float: left;
-}
-.div3-4cola {
-    width: 30%;
-    float: left;
-}
-.div4-4cola {
-    width: 20%;
-    float: right;
-    margin-right: 10px;
-}
 .section-header {
     width: 100%;
     background-color:#80b080;
@@ -71,7 +47,7 @@ nav ul {
 }
 nav li {
     display: inline;
-    margin-right: 8px;
+    margin-right: 15px;
 }
 nav a {
     text-decoration: none;
@@ -281,7 +257,7 @@ nav a:hover {
     margin-bottom: 8px;
 }
 
-/* FOREST ANIMALS PAGE */
+/* SNAPSHOT PAGES */
 .animals-header {
     width: 98%;
     margin: 10px auto;
@@ -400,6 +376,10 @@ nav a:hover {
         width: 98%;
         text-align: center;
     }
+    /* SNAPSHOT PAGES */
+    .columnated-div {
+        column-count: 2;
+    }
  }
  @media screen and (max-width: 850px) {
     /* Reduce to single column */
@@ -451,5 +431,9 @@ nav a:hover {
     #national-parks-list-div {
         width: 50%;
         margin: 0 auto;
+    }
+    /* SNAPSHOT PAGES */
+    .columnated-div {
+        column-count: 1;
     }
  }
