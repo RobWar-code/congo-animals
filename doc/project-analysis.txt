@@ -340,6 +340,11 @@ The texts are in the folder assets/texts
 				Author: <a href="https://commons.wikimedia.org/wiki/File:Boulengerina_annulata_2.jpg">Al Cortiz</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 				banded-water-cobra.jpg
 
+				Dwarf Crocodile
+				https://en.wikipedia.org/wiki/Dwarf_crocodile#/media/File:Crocodile_nain_aquarium_porte_dor%C3%A9e_Paris.JPG
+				Author: <a href="https://commons.wikimedia.org/wiki/File:Crocodile_nain_aquarium_porte_dor%C3%A9e_Paris.JPG">Thesupermat</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+				dwarf-crocodile.jpg
+				
 				African Dwarf Frog
 				https://en.wikipedia.org/wiki/African_dwarf_frog#/media/File:African_dwarf_frog.jpg
 				Author: <a href="https://commons.wikimedia.org/wiki/File:African_dwarf_frog.jpg">James Gathany</a>, Public domain, via Wikimedia Commons
