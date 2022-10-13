@@ -65,6 +65,7 @@ nav a {
 /* Introductory Section */
 #introductory-div {
     width: 96%;
+    height: 420px;
     margin: 0 auto;
 }
 #introduction {
@@ -80,7 +81,7 @@ nav a {
 }
 #section-lookup {
     width: 31.2%;
-    padding-bottom: 12%;
+    height: 100%;
     float: left;
     background-color: #a0f0a0;
     margin: 0 0 10px 10px;
@@ -327,8 +328,8 @@ nav a {
     }
     #section-lookup {
         width: 48%;
+        height: 95%;
         float: right;
-        padding-bottom: 20%;
     }
     #grey-parrot-img-div {
         clear: both;
@@ -409,7 +410,7 @@ nav a {
         column-count: 2;
     }
  }
- @media screen and (max-width: 850px) {
+ @media screen and (max-width: 950px) {
     /* Reduce to single column */
     /* 
         Notes: I tried using a class to override the columnation 
@@ -421,6 +422,9 @@ nav a {
         background-color: #80b880;
     }
     /* Introductory Section */
+    #introductory-div {
+        height: auto;
+    }
     #introductory-div > div {
         width: 96%;
         float: none;
@@ -428,6 +432,9 @@ nav a {
     }
     #introduction h2 {
         text-align: center;
+    }
+    #section-lookup {
+        height: 220px;
     }
     /* Geography Section */
     #geography-div > div {
