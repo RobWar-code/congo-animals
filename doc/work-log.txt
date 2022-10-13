@@ -1,7 +1,12 @@
 Work Due 
- Do the project README file
+ Do the project README file with screen shots
 
  Do the systematic testing
+
+ Do the deployment on GitHub
+    Record the deployment procedures in the README
+
+ * Smarten-up the Introductory section
 
 Work Done
     12/10/22
