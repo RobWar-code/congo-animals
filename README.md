@@ -8,4 +8,4 @@ To provide an attractive overview of the habitats of the Congo and some examples
 animals that inhabit them and to encourage an interest in the country.
 
 ## Screenshot of Main Page
-![Snapshot Main Page](https://github.com/RobWar-code/congo-animals/tree/main/assets/images/main-page-shot.png)
+![Snapshot Main Page](/assets/images/main-page-shot.png)
