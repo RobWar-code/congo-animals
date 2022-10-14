@@ -4,36 +4,39 @@ Testing is for links and other active element functionality.
 Each page is tested from left to right and top to bottom beginning
 on the main page and proceeding in page order. Errors are
 recorded herein.
-* indicates fixed
+* indicates done/fixed
 
 General
-    Resizing
+    * Resizing
         * Arrangement of menu items on 700px nav bar
+        * Site Header - allow for padding where the title reaches the edge on resizing
 
-    Attributions links provided should be modified to open in separate tab
+    * Attributions links provided should be modified to open in separate tab
 
 Main page
-    Style
+    * Style
         * Shade the central div of the Human Concerns section as per the introductory section
 
-    Resizing
+    * Resizing
         * Animal Life section, columnation error at < full-width
         * Row centering at full width
         * Centering of zebra pic at 1200px
         * Back To Top button out of position at 950px - single column
 
-    Links
+    * Links
         * Nile Crocodile - should be in separate tab
-
+        * Missing links to savanna and swamp animals in habitats section
+        * Replace travel to Kahuzi-Biega by Lonely Planet
+        
 Forest Animals
-    Resizing
-    Links
+    * Resizing
+    * Links
 
 Savanna Animals
-    Resizing
-    Links
+    * Resizing
+    * Links
 
 Swamp Animals
-    Resizing
-    Links
+    * Resizing
+    * Links
 
