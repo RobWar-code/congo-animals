@@ -4,12 +4,33 @@ Testing is for links and other active element functionality.
 Each page is tested from left to right and top to bottom beginning
 on the main page and proceeding in page order. Errors are
 recorded herein.
+* indicates fixed
+
+General
+    Resizing
+        * Arrangement of menu items on 700px nav bar
 
 Main page
+    Style
+        * Shade the central div of the Human Concerns section as per the introductory section
+
+    Resizing
+        * Animal Life section, columnation error at < full-width
+        * Row centering at full width
+        * Centering of zebra pic at 1200px
+        * Back To Top button out of position at 950px - single column
+
+    Links
 
 Forest Animals
+    Resizing
+    Links
 
 Savanna Animals
+    Resizing
+    Links
 
 Swamp Animals
+    Resizing
+    Links
 
