@@ -10,6 +10,8 @@ General
     Resizing
         * Arrangement of menu items on 700px nav bar
 
+    Attributions links provided should be modified to open in separate tab
+
 Main page
     Style
         * Shade the central div of the Human Concerns section as per the introductory section
@@ -21,6 +23,7 @@ Main page
         * Back To Top button out of position at 950px - single column
 
     Links
+        * Nile Crocodile - should be in separate tab
 
 Forest Animals
     Resizing
