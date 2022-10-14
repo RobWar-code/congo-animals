@@ -27,7 +27,7 @@ Main page
         * Nile Crocodile - should be in separate tab
         * Missing links to savanna and swamp animals in habitats section
         * Replace travel to Kahuzi-Biega by Lonely Planet
-        
+
 Forest Animals
     * Resizing
     * Links
@@ -40,3 +40,4 @@ Swamp Animals
     * Resizing
     * Links
 
+Do the W3C code checks CSS and HTML

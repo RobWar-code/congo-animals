@@ -1,15 +1,20 @@
 Work Due 
- Do the project README file with screen shots
+ Add zoom effect to parrot image in introductory section
 
  Do the systematic testing
 
+ Review the project pass points on the portfolio assessment guide
+ 
  Do the deployment on GitHub
     Record the deployment procedures in the README
 
  * Smarten-up the Introductory section
 
 Work Done
-    12/10/22
+   13/10/22
+    * Do the project README file with screen shots
+
+   12/10/22
 
     * Add link to return to top of page on index.html
 
