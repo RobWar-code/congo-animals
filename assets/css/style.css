@@ -99,11 +99,12 @@ nav a {
 #grey-parrot-img-div {
     width: 34%;
     float: right;
-    margin: 10px 0 10px 10px;
+    margin: 10px 0 10px 0;
 }
-#grey-parrot-inflight {
+ #grey-parrot-inflight {
     width: 100%;
 }
+
 /* Geography Section */
 #geography {
     clear: both;
@@ -277,6 +278,9 @@ nav a {
 }
 #page-top-link-div {
     clear: both;
+    width: 100%;
+    padding: 5px;
+    background-color:#009000;
     text-align: center;
 }
 #page-top-link {

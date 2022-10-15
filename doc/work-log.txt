@@ -1,16 +1,18 @@
 Work Due 
- Add zoom effect to parrot image in introductory section
-
- Do the systematic testing
-
- Review the project pass points on the portfolio assessment guide
- 
  Do the deployment on GitHub
     Record the deployment procedures in the README
 
- * Smarten-up the Introductory section
 
 Work Done
+   15/10/22
+   * Do the systematic testing
+
+   * Review the project pass points on the portfolio assessment guide
+   
+   * Smarten-up the Introductory section
+
+   * Do footer for Back To Top section and include CSS Check Logo
+
    13/10/22
     * Do the project README file with screen shots
 

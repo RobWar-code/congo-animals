@@ -41,3 +41,10 @@ Swamp Animals
     * Links
 
 Do the W3C code checks CSS and HTML
+    HTML
+        * index.html
+        * forest-animals.html
+        * savanna-animals.html
+        * swamp-animals.html
+    CSS
+        * style.css

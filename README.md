@@ -4,8 +4,9 @@
 Any English speaker interested in geography and wildlife.
 
 ## Website Aims
-To provide an attractive overview of the habitats of the Congo and some examples of the
-animals that inhabit them and to encourage an interest in the country.
+The site is intended to provide an attractive overview of the habitats of 
+the Democratic Republic of the Congo, some examples of the animals that inhabit them 
+and to encourage an interest in the country.
 
 ## Page Layouts
 The site provides a summarised, top-down overview of The Democratic Republic of the Congo,
