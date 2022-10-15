@@ -1,0 +1,14 @@
+Further Works
+
+The introductory section on the main page is rather "scrappy" especially
+at around width 1250px, this could do with redesigning.
+
+The crocodile picture zoom is off-balance, find a way of making it centered
+on the column.
+
+The habitat animal pages could do with 8 or 9 pictures rather than 6,
+with the smaller images appearing at the top of the page for a better
+effect.
+
+The Human Concerns section could do with more detail and be set on
+its own page.
