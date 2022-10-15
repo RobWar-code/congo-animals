@@ -78,7 +78,7 @@ nav a {
 #nile-crocodile-pic {
     width: 85%;
     margin: 0 auto;
-
+    
     /* Zoom animation for crocodile */
     animation-name: zoom-croc;
     animation-duration: 5s;
