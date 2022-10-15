@@ -13,6 +13,8 @@ General
 
     * Attributions links provided should be modified to open in separate tab
 
+    ami-responsiveis test
+
 Main page
     * Style
         * Shade the central div of the Human Concerns section as per the introductory section

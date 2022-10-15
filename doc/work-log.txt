@@ -1,4 +1,9 @@
 Work Due 
+
+ Further works on resizing required for small mobiles
+   Main menu (390px)
+   Remove zoom for crocodile
+
  Do the deployment on GitHub
     Record the deployment procedures in the README
 
@@ -6,7 +11,7 @@ Work Due
 Work Done
    15/10/22
    * Add zoom to croc pic on main page
-   
+
    * Do the systematic testing
 
    * Review the project pass points on the portfolio assessment guide

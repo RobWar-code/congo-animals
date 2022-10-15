@@ -76,21 +76,8 @@ nav a {
     margin-top: 5px;
 }
 #nile-crocodile-pic {
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
-    
-    /* Zoom animation for crocodile */
-    animation-name: zoom-croc;
-    animation-duration: 5s;
-    animation-fill-mode: forward;
-}
-@keyframes zoom-croc {
-    from {
-        scale: 1;
-    }
-    to {
-        scale: 1.15;
-    }
 }
 #section-lookup {
     width: 31.2%;
@@ -514,4 +501,10 @@ nav a {
     nav li {
         white-space: nowrap;
     }
+ }
+ @media screen and (max-width: 400px) {
+    nav {
+        height: 150px;
+    }
+
  }
