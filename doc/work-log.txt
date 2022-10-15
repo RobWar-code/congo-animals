@@ -5,6 +5,8 @@ Work Due
 
 Work Done
    15/10/22
+   * Add zoom to croc pic on main page
+   
    * Do the systematic testing
 
    * Review the project pass points on the portfolio assessment guide
