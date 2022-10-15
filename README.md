@@ -25,3 +25,14 @@ ANIMAL PAGE SAMPLE
 
 ## Development Documentation
 Development documentation is contained in text files in the local doc folder.
+
+## Deployment
+Deploy from GitHub as follows:
+    From the congo-animals repository
+    Click Settings option
+    Click Pages option (on left)
+    Under the Branch heading select main
+    Click the Save button
+    Wait a few minutes then refresh the page, it should display
+        a box stating "Your Site is Live" at the top of the page.
+    Click on the Visit Site button to check.
