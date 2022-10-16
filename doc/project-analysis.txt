@@ -1,6 +1,7 @@
 # Project Suggestions
 
 	CONTENTS
+		Updates
 		Suggestions
 		Background Information on Current Climate Forecasting
 			Audience
@@ -18,6 +19,22 @@
 			Skeleton
 			Surface
 
+## Updates
+	16/10/22
+	Due to further reading from the course notes, the following
+	are missing from the project
+		footer links to social media
+		use of a form
+
+	The footer should appear on each page except the final registration
+	page, this should include the Back To Top button and the CSS check
+	logo.
+
+	The final page should be the Register For Updates page, which
+	should contain fields for entering name, email and password.
+
+	The time estimate for these works is 5 days.
+	
 ## Suggestions:
 	1. Background Information on Current Climate Forecasting
 		Rejected on the grounds of difficulty in obtaining copyright
