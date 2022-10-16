@@ -280,41 +280,50 @@ nav a {
 /* footer section */
 footer {
     clear: both;
+    padding: 5px 10px 0 10px;
     width: 100%;
-    height: 60px;
-    padding: 5px;
+    height: 70px;
     background-color:#009000;
 }
 .page-top-link-div {
-    width: 20%;
+    width: 30%;
     float: left;
 }
-.page-top-link-div a {
+.page-top-link-div div {
+    margin-top: 10px;
+    width: 180px;
+    text-align: center;
     background-color:#80b080;
-    line-height: 50px;
-    font-size: 1.2em;
-    text-decoration: none;
-    padding-left: 10px;
-    padding-right: 10px;
     border: 1px solid black;
 }
+.page-top-link-div a {
+    font-size: 1.0em;
+    text-decoration: none;
+    padding-left: 2px;
+    padding-right: 2px;
+}
 .social-networks-div {
-    width: 58%;
+    width: 38%;
     float: left;
 }
 .social-networks {
+    margin-top: 10px;
     text-align: center;
 }
 .social-networks li {
     display: inline;
+    padding-right: 10px;
+    font-size: 1.6em;
+    color: black;
 }
 .css-validator-div {
-    margin-top: 5px;
-    margin-right: 5px;
-    width: 20%;
-    float: right;
+    margin-top: 10px;
+    width: 30%;
+    position: absolute;
+    right: 10px;
     text-align: right;
 }
+
 /* SNAPSHOT PAGES */
 .animals-header {
     width: 98%;
@@ -521,6 +530,10 @@ footer {
     }
     nav li {
         white-space: nowrap;
+    }
+    /* footer */
+    .page-top-link-div div {
+        width: 100px;
     }
  }
  @media screen and (max-width: 400px) {

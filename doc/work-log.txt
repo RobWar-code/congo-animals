@@ -1,6 +1,7 @@
 Work Due 
 
   Do the new footer with social links
+    Copy the new footer to the animal pic pages
 
   Do the Register for Update page
 
