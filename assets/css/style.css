@@ -280,6 +280,7 @@ nav a {
 /* footer section */
 footer {
     clear: both;
+    margin-top: 10px;
     padding: 5px 10px 0 10px;
     width: 100%;
     height: 70px;
@@ -358,6 +359,19 @@ footer {
 }
 .animal-pic {
     width: 100%;
+}
+/* Registration Page */
+#registration-container-div {
+    width:100%;
+    height: 750px;
+    background: url("../images/rain-forest.jpg") no-repeat center center;
+}
+#registration-form-div {
+    width: 330px;
+    margin: 0 auto;
+    margin-top: 25%;
+    background: #c0f0c0;
+    opacity: 0.6;
 }
 /* Media Adaptations */
 @media screen and (max-width: 1200px) {
@@ -538,7 +552,7 @@ footer {
  }
  @media screen and (max-width: 400px) {
     nav {
-        height: 150px;
+        height: 200px;
     }
 
  }
