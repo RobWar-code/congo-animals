@@ -553,8 +553,15 @@ footer {
     .columnated-div {
         column-count: 1;
     }
+    /* Registration Page */
+    #positioning-div {
+        width: 5%;
+    }
+    #registration-form-div {
+        width: 90%;
+    }
  }
- @media screen and (max-width: 700px){
+ @media screen and (max-width: 750px){
     nav {
         height: 100px;
     }
@@ -574,5 +581,11 @@ footer {
     nav {
         height: 200px;
     }
-
+    /* Registration Form */
+    #positioning-div {
+        width: 2%;
+    }
+    #registration-form-div {
+        width: 96%;
+    }
  }
