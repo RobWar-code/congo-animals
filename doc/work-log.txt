@@ -1,19 +1,24 @@
 Work Due 
 
-  * Do the new footer with social links
-    * Copy the new footer to the animal pic pages
-
-  * Add Register to menu on each page
-
-  Do the Register for Update page
-
-  Re-do the W3C code checks
+   Do Testing of Updates
    
- Do the deployment on GitHub
-    Record the deployment procedures in the README
+   Re-do the W3C code checks
+
+   Do the modifications to the README
+   
+   Do the deployment on GitHub
+      Record the deployment procedures in the README
 
 
 Work Done
+   17/10/22
+   * Do the new footer with social links
+      * Copy the new footer to the animal pic pages
+
+   * Add Register to menu on each page
+
+   * Do the Register for Update page
+
    15/10/22
    * Further works on resizing required for small mobiles
       Main menu (390px)

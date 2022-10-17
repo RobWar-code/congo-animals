@@ -6,6 +6,26 @@ on the main page and proceeding in page order. Errors are
 recorded herein.
 * indicates done/fixed
 
+Testing of Updates (17/10/22)
+
+    Check all footer links and footer resizing
+        index.html
+            w3c CSS check reports "Some headers necessary for this are missing"
+                re-run the CSS and HTML checks when other testing completed
+
+        * forest-animals.html
+        * savanna-animals.html
+        * swamp-animals.html
+        * register.html
+
+    * Check the menu links from page to page
+
+    * Check the registration page
+        * Resizing
+        * Form Validation
+
+Initial Testing
+
 General
     * Resizing
         * Arrangement of menu items on 700px nav bar
