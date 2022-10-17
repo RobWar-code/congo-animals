@@ -24,12 +24,12 @@ Testing of Updates (17/10/22)
         * Resizing
         * Form Validation
 
-    Browser Tests
-        Firefox
-        Google Chrome
-        Edge 
-        Opera 
-        
+    * Browser Tests
+        * Firefox
+        * Google Chrome
+        * Edge 
+        * Opera 
+
 
 Initial Testing
 
