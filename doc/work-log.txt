@@ -1,9 +1,5 @@
 Work Due 
 
-   Do Testing of Updates
-   
-   Re-do the W3C code checks
-
    Do the modifications to the README
    
    Do the deployment on GitHub
@@ -12,6 +8,10 @@ Work Due
 
 Work Done
    17/10/22
+   * Do Testing of Updates
+
+   * Re-do the W3C code checks
+
    * Do the new footer with social links
       * Copy the new footer to the animal pic pages
 
