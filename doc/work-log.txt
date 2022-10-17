@@ -2,7 +2,20 @@ Work Due
    Check through the general requirement in CI course
 
    Do the modifications to the README
-   
+      Sample shots of main and animal pages
+      Main Page Features
+         Introductory section
+         Geography section
+         Animal Life section
+         Habitats section
+         Human Concerns section
+
+      Animal Pages Features
+
+      Registration Page Features
+
+      Standardised footer
+      
    Do the deployment on GitHub
       Record the deployment procedures in the README
 

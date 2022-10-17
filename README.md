@@ -15,13 +15,20 @@ to other sites for this purpose.
 
 The screen-shots below demonstrate this approach.
 
-MAIN PAGE SAMPLE
+### General Features
+All external linked pages are presented on a separate browser tab
 
-![Snapshot Main Page](/assets/images/main-page-shot.png)
+All pictures have accreditations with corresponding links to external websites.
 
-ANIMAL PAGE SAMPLE
+### MAIN PAGE SAMPLE
 
-![Snapshot Savanna Animals](/assets/images/savanna-animals-shot.png)
+![Snapshot Main Page](/assets/images/congo-animals-samples.png)
+
+### Main Page Features
+
+### ANIMAL PAGE SAMPLE
+
+![Snapshot Savanna Animals](/assets/images/savanna-animals-samples.png)
 
 ## Development Documentation
 Development documentation is contained in text files in the local doc folder.
