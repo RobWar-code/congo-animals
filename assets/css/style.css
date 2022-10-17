@@ -114,18 +114,20 @@ nav a {
 /* Geography Section */
 #geography {
     clear: both;
+    width: 100%;
 }
-#geograph-div {
+#geography-div {
     width: 96%;
     margin: 0 auto;
 }
 #national-map-div {
     float: left;
     width: 18%;
-    margin: 10px 0 10px 10px;
+    margin: 10px 0 10px 0;
 }
 #national-map {
-    width: 100%;
+    width: 96%;
+    margin: 0 auto;
     border: 2px solid black;
 }
 #national-map-text-div {
@@ -145,7 +147,7 @@ nav a {
 #habitat-map-text-div {
     float: right;
     width: 22%;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 0 10px 10px;
 }
 #animal-life {
     clear: both;
