@@ -6,7 +6,7 @@
 		Background Information on Current Climate Forecasting
 			Audience
 			Information Content and Strategy
-		Snapshot of Animals of the Democratic Republic of the Congo
+		Congo Animals - Snapshot of Animals of the DRC
 			Audience
 			Aims
 			Strategy and Content
@@ -94,15 +94,15 @@
 			.pdf
 			https://repo.library.stonybrook.edu/xmlui/bitstream/handle/11401/8097/	somervilleandhassolclimatechange.pdf?sequence=1
 
-## Snapshot of Animals of the Democratic Republic of the Congo
+## Congo Animals - Snapshot of Animals of the DRC
 
 ### Audience
 	Anyone interested in nature, geography and natural preservation
 
 ### Aims
-	To collate information on larger animals and their habitats in the Congo.
-	To provide the user with a summarised snapshot of species present and
-	the current state of affairs and to provide links for further human
+	To collate information on larger animals and their habitats in the Democratic 
+	Republic of the Congo. To provide the user with a summarised snapshot of species 
+	present and the current state of affairs and to provide links for further human
 	interest.
 
 ### Strategy and Content

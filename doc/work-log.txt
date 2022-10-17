@@ -1,4 +1,5 @@
 Work Due 
+   Check through the general requirement in CI course
 
    Do the modifications to the README
    
@@ -8,6 +9,8 @@ Work Due
 
 Work Done
    17/10/22
+   * Change of title to "Congo Animals - Snapshot of Animals of the DRC"
+
    * Do Testing of Updates
 
    * Re-do the W3C code checks
