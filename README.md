@@ -1,4 +1,4 @@
-# A snapshot of animals of the Democratic Republic of the Congo and their habitats.
+# Congo Animals - Snapshot of Animals of the DRC
 
 ## Intended Audience
 Any English speaker interested in geography and wildlife.
@@ -129,8 +129,19 @@ The site was tested on the following browsers:
     Firefox
     Chrome
     Edge
+
+## Lighthouse Accessibility Report
+
+![Google Lighthouse Accessibility Report](/assets/images/readme-images/lighthouse-report-sample.png)
+
+Initially, the Best Practices scored 83%, which was caused by the use of http: rather than https: on
+the footer CSS Check link. This has now been fixed.
+
+Care was taken on the project to ensure that tonal/colour contrasts were clear and that alt and aria labels
+were used where necessary.
     
 ## Deployment
+
 Deploy from GitHub as follows:
     From the congo-animals repository
     Click Settings option
@@ -140,3 +151,9 @@ Deploy from GitHub as follows:
     Wait a few minutes then refresh the page, it should display
         a box stating "Your Site is Live" at the top of the page.
     Click on the Visit Site button to check.
+
+## Credits
+    Code for links to social media - CI Love Running Project
+
+    All content sources and images courtesy of Wikipedia
+
