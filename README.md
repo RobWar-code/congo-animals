@@ -96,6 +96,14 @@ The footer bar appears on each page.
 
 ![Snapshot Savanna Animals](/assets/images/readme-images/savanna-animals-samples.png)
 
+Example snapshots and descriptive text are provided for animals in each of the
+habitats. Links to detailed descriptions of the animals are provided from the
+title of each animal presented.
+
+### REGISTRATION PAGE SAMPLE
+
+
+
 ## Development Documentation
 Development documentation is contained in text files in the local doc folder.
 
