@@ -102,7 +102,11 @@ title of each animal presented.
 
 ### REGISTRATION PAGE SAMPLE
 
+![Snapshot Registration Page](/assets/images/readme-images/registration-sample.png)
 
+The registration page provides a (dummy) section for the user to enter details to
+receive email updates on the DRC and it's wildlife. The form has relevant HTML data
+checking for the email field and in order to ensure fields are completed.
 
 ## Development Documentation
 Development documentation is contained in text files in the local doc folder.
