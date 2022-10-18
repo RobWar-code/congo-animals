@@ -109,8 +109,27 @@ receive email updates on the DRC and it's wildlife. The form has relevant HTML d
 checking for the email field and in order to ensure fields are completed.
 
 ## Development Documentation
-Development documentation is contained in text files in the local doc folder.
+Development documentation is contained in text files in the local doc folder,
+including a running log of work arising (work-log.txt). Also present is the
+analysis for the project (project-analysis.txt)
 
+## Systems Testing
+Each of the active features has been tested systematically. Resizing/media 
+features were also tested for each page and section using the browser console
+ami.responsivedesign.is website.
+
+Notes on testing and fixes are recorded in doc/systems-testing.txt.
+
+The code has also been checked online:
+    HTML - W3C HTML Checker
+    CSS - W3C, Jigsaw CSS Checker
+
+The site was tested on the following browsers:
+    Opera
+    Firefox
+    Chrome
+    Edge
+    
 ## Deployment
 Deploy from GitHub as follows:
     From the congo-animals repository

@@ -2,19 +2,23 @@ Work Due
    Check through the general requirement in CI course
 
    Do the modifications to the README
-      Sample shots of main and animal pages
-      Main Page Features
-         Introductory section
-         Geography section
-         Animal Life section
-         Habitats section
-         Human Concerns section
+      * Sample shots of main and animal pages
+      * Main Page Features
+         * Introductory section
+         * Geography section
+         * Animal Life section
+         * Habitats section
+         * Human Concerns section
 
-      Animal Pages Features
+      * Animal Pages Features
 
-      Registration Page Features
+      * Registration Page Features
 
-      Standardised footer
+      * Standardised footer
+
+      * Lighthouse accessibility checks
+         * Issue raised: Insecure Link - identified on CSS/Checker logo on footer, 
+            modify to https: rather than http.
       
    Do the deployment on GitHub
       Record the deployment procedures in the README
