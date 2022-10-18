@@ -1,7 +1,12 @@
 Work Due 
-   Check through the general requirement in CI course
+   Await review from Tim-CI on Slack
 
-   Do the modifications to the README
+Work Done
+   18/10/22
+
+   * Check through the general requirement in CI course
+
+   * Do the modifications to the README
       * Sample shots of main and animal pages
       * Main Page Features
          * Introductory section
@@ -20,11 +25,9 @@ Work Due
          * Issue raised: Insecure Link - identified on CSS/Checker logo on footer, 
             modify to https: rather than http.
       
-   Do the deployment on GitHub
-      Record the deployment procedures in the README
+   * Do the deployment on GitHub
+      * Record the deployment procedures in the README
 
-
-Work Done
    17/10/22
    * Change of title to "Congo Animals - Snapshot of Animals of the DRC"
 
