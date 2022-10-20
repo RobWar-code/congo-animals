@@ -155,5 +155,7 @@ Deploy from GitHub as follows:
 ## Credits
     Code for links to social media - CI Love Running Project
 
-    All content sources and images courtesy of Wikipedia
+    Code for W3C CSS Token - W3C
+
+    All content sources and images courtesy of Wikipedia/Wikimedia
 
